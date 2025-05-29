@@ -20,8 +20,5 @@ This project demonstrates simple and multiple linear regression using the Housin
 - matplotlib
 - scikit-learn
 
-## How to Run
-```bash
-pip install pandas matplotlib scikit-learn
-python linear_regression_housing.py
+
 <img width="1000" alt="Screenshot 2025-05-29 at 2 07 02 PM" src="https://github.com/user-attachments/assets/6e588a98-d49c-4bdb-8c8e-497605be1a16" />
